@@ -1,0 +1,1 @@
+{extend name="base"}{block name="body"}    <!--tab标签-->{include file="regular_message/managecontent"/}{/block}{block name="foot_script"}{/block}
